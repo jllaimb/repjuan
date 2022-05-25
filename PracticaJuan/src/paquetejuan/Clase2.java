@@ -6,7 +6,7 @@ public class Clase2 {
 		// TODO Auto-generated method stub
 
 		
-		String palabra = 5;
+		String palabra = "hola";
 	}
 
 }

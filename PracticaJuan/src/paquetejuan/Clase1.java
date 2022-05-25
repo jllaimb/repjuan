@@ -7,7 +7,7 @@ public class Clase1 {
 
 		System.out.println("Hola Mundo");
 		
-		int x = "numero";
+		int x = 5;
 	}
 
 }
